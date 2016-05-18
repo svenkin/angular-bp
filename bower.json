@@ -1,0 +1,16 @@
+{
+  "name": "angular-bp",
+  "description": "Boilerplate for AngularJS",
+  "main": "index.js",
+  "authors": [
+    "Sven Kinzel <sven@hegerkinzel.de>"
+  ],
+  "license": "-",
+  "homepage": "https://github.com/svenkin/angular-bp",
+  "moduleType": [],
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.0",
+    "bootstrap": "^3.3.6"
+  }
+}
